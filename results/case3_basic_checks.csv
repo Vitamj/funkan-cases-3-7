@@ -1,0 +1,2 @@
+n,diag_abs_max,diag_ok,symmetry_abs_max,symmetry_ok,negative_count,nonnegative_ok,triangle_triples_checked,triangle_violation_count,triangle_violation_fraction
+45,0.0,True,0.0,True,0,True,91125,0,0.0

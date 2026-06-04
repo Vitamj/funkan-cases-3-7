@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+.matplotlib_cache/
+.cache/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
